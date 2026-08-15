@@ -50,18 +50,6 @@ Full Stack Web Developer
 
 <br>
 
-<h2>🚀 Projects</h2>
-
-<p>
-🔹 MotherCare – AI Pregnancy Companion
-</p>
-
-<p>
-🔹 Student Management System
-</p>
-
-<br>
-
 <h2>📊 GitHub Stats</h2>
 
 <p align="center">
