@@ -3,6 +3,8 @@
 
 <td width="30%" align="center">
 
+<img src="https://github.com/Devendra-63921.png" width="220" height="220" style="border-radius:50%;">
+
 <h2>Devendra Rai</h2>
 
 <p>Full Stack Developer</p>
