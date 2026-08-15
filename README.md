@@ -1,16 +1,23 @@
-## Hi there 👋
+<table>
+<tr>
 
-<!--
-**Devendra-63921/Devendra-63921** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<td width="30%" align="center">
 
-Here are some ideas to get you started:
+<h2>Devendra Rai</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>Full Stack Developer</p>
+
+</td>
+
+<td width="70%">
+
+<h1 align="center">Hi 👋, I'm Devendra Rai</h1>
+
+<h3 align="center">
+Full Stack Web Developer | AI & ML Learner
+</h3>
+
+</td>
+
+</tr>
+</table>
