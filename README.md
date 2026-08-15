@@ -1,137 +1,84 @@
-<div align="center">
+<p align="center">
+  <img src="https://github.com/Devendra-63921.png" width="180" height="180" style="border-radius: 50%;">
+</p>
 
-# 👋 Hi, I'm Devendra Rai
+<h1 align="center">Hi 👋, I'm Devendra Rai</h1>
 
-### <span style="color:#00BFFF">Full Stack Web Developer</span>
+<p align="center">
+  <strong>Full Stack Web Developer</strong>
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=Devendra-63921&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Devendra-63921&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views">
+</p>
 
-</div>
-
----
-
-<table>
-<tr>
-
-<td width="30%" align="center" valign="top">
-
-<img src="https://github.com/Devendra-63921.png" width="180" alt="Devendra Rai"/>
-
-<br><br>
-
-# Devendra Rai
-
-### Full Stack Developer
-
-<br>
-
-<a href="https://github.com/Devendra-63921">
-<img src="https://img.shields.io/github/followers/Devendra-63921?label=Followers&style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-
-<td width="70%" align="center" valign="middle">
-
-# 💫 About Me
-
-<br>
-
-💻 **Full Stack Web Developer**
-
-<br>
-
-🌱 **Currently learning and improving my development skills**
-
-<br>
-
-🚀 **I enjoy building practical projects and learning through development**
-
-<br>
-
-🎯 **Focused on becoming a better Software Developer**
-
-<br><br>
-
-</td>
-
-</tr>
-</table>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;React+Developer;JavaScript+Developer;Always+Learning+%F0%9F%9A%80" alt="Typing SVG">
+</p>
 
 ---
 
-<div align="center">
+<h2 align="center">💫 About Me</h2>
 
-## 🛠️ Tech Stack
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=c,cpp,html,css,javascript,react,express&theme=dark" />
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 GitHub Statistics
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Devendra-63921&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devendra-63921&layout=compact&theme=tokyonight&hide_border=true" width="38%" />
-
-</div>
+<p align="center">
+  💻 Full Stack Web Developer
+  <br><br>
+  🌱 Currently learning and improving my development skills
+  <br><br>
+  🚀 I enjoy building practical projects and learning through development
+</p>
 
 ---
 
-<div align="center">
+<h2 align="center">🛠️ Tech Stack</h2>
 
-## 🔥 Contribution Streak
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,javascript,react,express" />
+</p>
 
-<br>
-
-<img src="https://streak-stats.demolab.com?user=Devendra-63921&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🌱 Currently Learning
-
-<br>
-
-<img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
-</div>
+<p align="center">
+  <strong>C • C++ • HTML • CSS • JavaScript • React • Express.js</strong>
+</p>
 
 ---
 
-<div align="center">
+<h2 align="center">📊 GitHub Stats</h2>
 
-## 🤝 Let's Connect
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Devendra-63921&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="500">
+</p>
 
-<br>
-
-<a href="https://github.com/Devendra-63921">
-<img src="https://img.shields.io/badge/GitHub-Devendra--63921-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devendra-63921&layout=compact&theme=tokyonight&hide_border=true" width="350">
+</p>
 
 ---
 
-<div align="center">
+<h2 align="center">🔥 GitHub Streak</h2>
 
-### ✨ Thanks for visiting my profile! ✨
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Devendra-63921&theme=tokyonight&hide_border=true" width="500">
+</p>
 
-<br>
+---
 
-⭐ **Keep Learning • Keep Building • Keep Growing** ⭐
+<h2 align="center">🌱 Currently Learning</h2>
 
-</div>
+<p align="center">
+  React.js &nbsp; • &nbsp;
+  JavaScript &nbsp; • &nbsp;
+  Express.js &nbsp; • &nbsp;
+  Data Structures & Algorithms
+</p>
+
+---
+
+<h2 align="center">✨ Thanks for visiting my profile! ✨</h2>
+
+<p align="center">
+  <strong>Let's build something amazing together 🚀</strong>
+</p>
+
+<p align="center">
+  ⭐ Feel free to explore my repositories!
+</p>
