@@ -1,64 +1,137 @@
-<!-- ================= HEADER ================= -->
+<div align="center">
 
-<p align="center">
-  <img src="https://github.com/Devendra-63921.png" width="180" height="180">
-</p>
+# 👋 Hi, I'm Devendra Rai
 
-<h1 align="center">
-  Hi 👋, I'm Devendra Rai
-</h1>
+### <span style="color:#00BFFF">Full Stack Web Developer</span>
 
-<h3 align="center">
-  Full Stack Web Developer
-</h3>
+<img src="https://komarev.com/ghpvc/?username=Devendra-63921&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Devendra-63921&label=PROFILE+VIEWS&color=0e75b6&style=flat">
-</p>
+</div>
 
-<hr>
+---
 
-<!-- ================= ABOUT ME ================= -->
+<table>
+<tr>
 
-<h2>💫 About Me</h2>
+<td width="30%" align="center" valign="top">
 
-<p>💻 Full Stack Web Developer</p>
+<img src="https://github.com/Devendra-63921.png" width="180" alt="Devendra Rai"/>
 
-<p>🌱 Currently learning and improving my development skills.</p>
+<br><br>
 
-<p>🚀 I enjoy building practical projects and learning through development.</p>
+# Devendra Rai
+
+### Full Stack Developer
 
 <br>
 
-<!-- ================= TECH STACK ================= -->
+<a href="https://github.com/Devendra-63921">
+<img src="https://img.shields.io/github/followers/Devendra-63921?label=Followers&style=for-the-badge&logo=github"/>
+</a>
 
-<h2>🛠️ Tech Stack</h2>
+</td>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,javascript,react,express" />
-</p>
+<td width="70%" align="center" valign="middle">
 
-<br>
-
-<!-- ================= GITHUB STATS ================= -->
-
-<h2>📊 GitHub Stats</h2>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Devendra-63921&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
-    alt="Devendra Rai GitHub Stats"
-  />
-</p>
+# 💫 About Me
 
 <br>
 
-<!-- ================= FOOTER ================= -->
+💻 **Full Stack Web Developer**
 
-<h2 align="center">
-  ✨ Thanks for visiting my profile! ✨
-</h2>
+<br>
 
-<p align="center">
-  ⭐ Feel free to explore my repositories.
-</p>
+🌱 **Currently learning and improving my development skills**
+
+<br>
+
+🚀 **I enjoy building practical projects and learning through development**
+
+<br>
+
+🎯 **Focused on becoming a better Software Developer**
+
+<br><br>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🛠️ Tech Stack
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=c,cpp,html,css,javascript,react,express&theme=dark" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Statistics
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Devendra-63921&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devendra-63921&layout=compact&theme=tokyonight&hide_border=true" width="38%" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🔥 Contribution Streak
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=Devendra-63921&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌱 Currently Learning
+
+<br>
+
+<img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🤝 Let's Connect
+
+<br>
+
+<a href="https://github.com/Devendra-63921">
+<img src="https://img.shields.io/badge/GitHub-Devendra--63921-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ Thanks for visiting my profile! ✨
+
+<br>
+
+⭐ **Keep Learning • Keep Building • Keep Growing** ⭐
+
+</div>
